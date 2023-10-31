@@ -1,4 +1,4 @@
-# monte_carlo_options_trading
+# python_monte_carlo_options_trading
 
 A Python script that performs a 10,000-Monte Carlo simulation to estimate the probability of achieving a target final value for an options investment portfolio over a specified number of months (120). The code also calculates some basic descriptive statistics and generates a multi-line plot with the simulated value paths. It also exports the monthly, annual and final values of the simulations to a .xlsx file for further analysis.
 
