@@ -5,5 +5,6 @@ A Python script that performs a 10,000-Monte Carlo simulation to estimate the pr
 
 ![MC_plot](https://github.com/vslgrf86/monte_carlo_options_trading/assets/58788051/25cb1c48-2e71-44aa-bc0f-59cc4391c39a)
 
+<img width="292" alt="terminal" src="https://github.com/vslgrf86/python_monte_carlo_options_trading/assets/58788051/0e59c534-939f-4eee-9cdc-b551d48a5f58">
 
 Dependencies: NumPy, Pandas, Matplotlib
